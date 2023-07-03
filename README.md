@@ -32,13 +32,14 @@ npm run dev
 ```
 ## Construído com:
 
-* [NextJS](https://nextjs.org/) -The React Framework.
-* [Typescript]()
+* [NextJS](https://nextjs.org/) -The React Framework. Oferece suporte para desenvolvimento front (com os 3 tipos de renderização) e criação de api facilitada.
+* [Typescript](https://www.typescriptlang.org/) - TS é um superSet do JS. Nos oferece tipagem estática no JS. Nos oferecendo um maior constrole e organização durante o desenvolvimento.
 * In memory database: Os dados ficam armazenado somente em tempo de execução do projeto.
 
 ## Usando API:
-
+```json
 {"message":"Desafio backend-Fpass.","Consultar Heroi":"GET: /heroi?nome=nomedoheroi","Favoritar heroi consultado":"POST: /heroi -> params {nome: nomedoheroi, favoritar: true}","Desfavoritar heroi":"POST: /heroi -> params {nome: nomedoheroi, favoritar: false}","Consultar sua lista de favoritos":"GET: /heroi"}
+```
 ## Author:
 
 * **Joir Neto** - [LinkedIn](https://www.linkedin.com/in/joir-neto/)
