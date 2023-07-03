@@ -17,7 +17,7 @@ Listar todos os heróis marcados como favorito.
 ## Início
 ### Pré-requisitos:
 
-Você precisa do NodeJS e do NPM instalado em sua máquina.
+Você precisa do NodeJS=>16 e do NPM instalado em sua máquina.
 
 Você deve criar um arquivo .env.local e inserir as seguintes variáveis de ambiente:
 - API_PUBLIC_KEY
