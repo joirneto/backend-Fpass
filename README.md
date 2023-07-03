@@ -20,9 +20,8 @@ Listar todos os heróis marcados como favorito.
 Você precisa do NodeJS e do NPM instalado em sua máquina.
 
 Você deve criar um arquivo .env.local e inserir as seguintes variáveis de ambiente:
-
-API_PUBLIC_KEY
-API_PRIVATE_KEY
+- API_PUBLIC_KEY
+- API_PRIVATE_KEY
 
 As chaves são geradas ao se cadastrar no https://developer.marvel.com/
 
