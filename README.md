@@ -39,6 +39,7 @@ npm run dev
 ## Usando API:
 ```json
 {
+"urlBase": "http://localhost:3000/api", 
 "Consultar Heroi":"GET: /heroi?nome=nomedoheroi",
 "Favoritar heroi consultado":"POST: /heroi -> params {nome: nomedoheroi, favoritar: true}",
 "Desfavoritar heroi":"POST: /heroi -> params {nome: nomedoheroi, favoritar: false}",
